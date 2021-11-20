@@ -78,4 +78,6 @@ Congratulations, you can now sit comfortably in your sofa and use your smartphon
 
 Thank you for reading through my project. I hope you enjoy it and it will inspire you to undertake something similar for your LEDs on your Christmas tree, on your winter snowman, or anything else!
 
-
+### Links
+- View this project on [Instructables](https://www.instructables.com/An-IoT-Halloween-Pumpkin-Control-LEDs-With-an-Ardu/)
+- View this project on [Youtube](https://www.youtube.com/watch?v=5oYMI13OD70)
